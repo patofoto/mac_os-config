@@ -18,6 +18,12 @@ brew install rsync
 brew install speedtest-cli
 brew install vim
 brew install youtube-dl
+
 brew install zsh
+
 brew install zsh-completions
+
 brew install zsh-syntax-highlighting
+
+brew install romkatv/powerlevel10k/powerlevel10k
+echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
