@@ -69,3 +69,7 @@ brew install --cask vmware-fusion
 brew install --cask vnc-viewer
 brew install --cask vuescan
 brew install --cask whatsapp
+
+brew install --cask cheatsheet
+brew install --cask imageoptim
+brew install --cask iina
