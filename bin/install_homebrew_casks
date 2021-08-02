@@ -73,3 +73,5 @@ brew install --cask whatsapp
 brew install --cask cheatsheet
 brew install --cask imageoptim
 brew install --cask iina
+brew install --cask numi
+brew install --cask notion
