@@ -12,8 +12,8 @@ IFS=$'\n\t'
 export HOMEBREW_CURL_RETRIES=3
 
 # Repositories
-export REPO_SUBLIME_TEXT_SETUP=17.0.0
-export REPO_DOTFILES=43.1.0
+export REPO_SUBLIME_TEXT_SETUP=18.2.0
+export REPO_DOTFILES=45.0.0
 
 # Applications
 export ELM_APP_NAME="elm"
@@ -28,9 +28,16 @@ else
   export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/amd64/Docker.dmg"
 fi
 
+export GHOSTLAB_APP_NAME="Ghostlab3.app"
+export GHOSTLAB_VOLUME_NAME="Ghostlab3"
+export GHOSTLAB_APP_URL="https://awesome.vanamco.com/Ghostlab3/downloads/Ghostlab3.dmg"
+
 export SONOS_APP_NAME="Sonos S1 Controller.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
+
+export YUBIKEY_MANAGER_APP_NAME="YubiKey Manager.app"
+export YUBIKEY_MANAGER_APP_URL="https://developers.yubico.com/yubikey-manager-qt/Releases/yubikey-manager-qt-latest-mac.pkg"
 
 # Application Extensions
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
