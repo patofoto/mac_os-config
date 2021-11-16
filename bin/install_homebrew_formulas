@@ -13,7 +13,7 @@ brew install imagemagick
 brew install mas
 brew install node
 brew install pipenv
-brew install python@3.9
+brew install python@3.10
 brew install rsync
 brew install speedtest-cli
 brew install vim
@@ -27,3 +27,5 @@ brew install zsh-syntax-highlighting
 
 brew install romkatv/powerlevel10k/powerlevel10k
 echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+
+brew install wireguard-tools
