@@ -3,22 +3,22 @@
 # Installs App Store software.
 
 # 1Password
-mas install 443987910
+#mas install 443987910
 
 # Numbers
-mas install 409203825
+#mas install 409203825
 
 # Pages
-mas install 409201541
+#mas install 409201541
 
 # WiFi Explorer
 mas install 494803304
 
 # Affinity Photo
-mas install 824183456
+#mas install 824183456
 
 # Affinity Designer
-mas install 824171161
+#mas install 824171161
 
 # Speedtest
 mas install 1153157709
@@ -39,10 +39,10 @@ mas install 1004094307
 mas install 515650180
 
 # Final Cut Pro
-mas install 424389933
+#mas install 424389933
 
 # Tap Forms 5
-mas install 1081981112
+#mas install 1081981112
 
 # Swatch Book Editor
 mas install 1458643649
@@ -63,13 +63,13 @@ mas install 1176895641
 mas install 477514607
 
 # Motion
-mas install 434290957
+#mas install 434290957
 
 # Paprika Recipe Manager 3
 mas install 1303222628
 
 # Pocket
-mas install 568494494
+#mas install 568494494
 
 # WiFi Explorer
 mas install 494803304
@@ -81,19 +81,19 @@ mas install 1000409621
 mas install 1458866808
 
 # Pages
-mas install 409201541
+#mas install 409201541
 
 # Shot Lister
 mas install 1020869884
 
 # Compressor
-mas install 424390742
+#mas install 424390742
 
 # Day One
 mas install 1055511498
 
 # MindNode
-mas install 1289197285
+#mas install 1289197285
 
 # Divvy
 mas install 413857545
@@ -102,19 +102,16 @@ mas install 413857545
 mas install 1153435308
 
 # Numbers
-mas install 409203825
+#mas install 409203825
 
 # ColorSlurp
 mas install 1287239339
 
 # Keynote
-mas install 409183694
-
-# Divvy
-mas install 413857545
+#mas install 409183694
 
 # DropOver
-mas install 1355679052
+#mas install 1355679052
 
 # Flowchart Designer 3
-mas install 1512570906
+#mas install 1512570906
