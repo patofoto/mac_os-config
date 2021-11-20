@@ -106,6 +106,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/vi/websocat[Websocat]
 * link:https://github.com/BurntSushi/xsv[xsv]
 * link:https://github.com/mptre/yank[Yank]
+* link:https://developers.yubico.com/yubikey-manager[YubiKey Manager CLI]
 * link:https://github.com/ajeetdsouza/zoxide[Zoxide]
 
 === Homebrew Casks
@@ -190,6 +191,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://www.color.ninja[Paletter]
 * link:https://primitive.lol[Primitive]
 * link:https://apps.apple.com/gb/app/sequence-diagram/id1195426709[Sequence Diagram]
+* link:https://shapesapp.com[Shapes]
 * link:https://mizage.com/shush[Shush]
 * link:https://slack.com[Slack]
 * link:https://www.adriangranados.com[WiFi Explorer]
@@ -239,6 +241,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://asciidoctor.org[ASCII Doctor]
 * link:https://github.com/evanphx/benchmark-ips[Benchmark IPS]
 * link:https://github.com/jmmastey/bundler-stats[Bundler Stats]
+* link:https://github.com/zombocom/dead_end[DeadEnd]
 * link:https://github.com/ruby/debug[Debug]
 * link:https://github.com/faker-ruby/faker-bot[Faker Bot]
 * link:https://www.alchemists.io/projects/flacsmith[Flacsmith]
@@ -258,6 +261,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/rubocop-hq/rubocop-rake[Rubocop Rake]
 * link:https://github.com/rubocop-hq/rubocop-rspec[Rubocop RSpec]
 * link:https://www.alchemists.io/projects/rubysmith[Rubysmith]
+* link:https://solargraph.org/guides[Solargraph]
 * link:https://www.alchemists.io/projects/sublime_text_kit[Sublime Text Kit]
 * link:https://github.com/red-data-tools/YouPlot[YouPlot]
 
@@ -279,7 +283,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 20.0.0
+git checkout 20.1.0
 ----
 
 == Usage

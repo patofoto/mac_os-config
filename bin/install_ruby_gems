@@ -6,6 +6,7 @@ gem install amazing_print
 gem install asciidoctor
 gem install benchmark-ips
 gem install bundler-stats
+gem install dead_end
 gem install debug
 gem install faker-bot
 gem install flacsmith
@@ -25,5 +26,6 @@ gem install rubocop-performance
 gem install rubocop-rake
 gem install rubocop-rspec
 gem install rubysmith
+gem install solargraph
 gem install sublime_text_kit
 gem install youplot
