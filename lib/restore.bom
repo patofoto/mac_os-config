@@ -3,9 +3,6 @@
 # Acorn
 /Users/bkuhlmann/Library/Preferences/com.flyingmeat.Acorn5.LSSharedFileList.plist
 
-# Alchemists
-/Users/bkuhlmann/Library/Preferences/io.alchemists.www.plist
-
 # Alfred
 /Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred-Preferences.plist
 /Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred.plist
@@ -152,6 +149,9 @@
 # Numi
 /Users/bkuhlmann/Library/Preferences/com.dmitrynikolaev.numi.plist
 
+# Obsidian
+/Users/bkuhlmann/Library/Preferences/md.obsidian.plist
+
 # Path Finder
 /Users/bkuhlmann/Library/Application Support/Path Finder
 /Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.LSSharedFileList.plist
@@ -205,7 +205,6 @@
 /Users/bkuhlmann/.gem/credentials
 /Users/bkuhlmann/.gem/gem-private_key.pem
 /Users/bkuhlmann/.gem/gem-public_cert.pem
-/Users/bkuhlmann/.gitconfig
 /Users/bkuhlmann/.gnupg
 /Users/bkuhlmann/.minisign
 /Users/bkuhlmann/.netrc

@@ -7,6 +7,7 @@ brew install bash
 brew install bash-completion
 brew install bat
 brew install blueutil
+brew install croc
 brew install crystal
 brew install ctags
 brew install direnv
@@ -40,10 +41,8 @@ brew install httpstat
 brew install hyperfine
 brew install ioping
 brew install jq
-brew install lame
 brew install lnav
 brew install lynis
-brew install magic-wormhole
 brew install mas
 brew install minisign
 brew install mitmproxy
@@ -68,7 +67,6 @@ brew install readline
 brew install reattach-to-user-namespace
 brew install redis
 brew install ripgrep
-brew install sassc
 brew install shellcheck
 brew install siege
 brew install sleepwatcher
