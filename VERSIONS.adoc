@@ -1,4 +1,176 @@
-= Changes
+= Versions
+
+== 22.2.0 (2022-05-28)
+
+* Updated to Dotfiles 47.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 19.3.1 - Brooke Kuhlmann
+
+== 22.1.0 (2022-05-07)
+
+* Added Dagger Homebrew formula - Brooke Kuhlmann
+* Updated to Caliber 0.6.0 - Brooke Kuhlmann
+* Updated to Caliber 0.7.0 - Brooke Kuhlmann
+* Updated to Caliber 0.8.0 - Brooke Kuhlmann
+
+== 22.0.1 (2022-04-17)
+
+* Added GitHub sponsorship configuration - Brooke Kuhlmann
+* Updated to Caliber 0.4.0 - Brooke Kuhlmann
+* Updated to Caliber 0.5.0 - Brooke Kuhlmann
+* Updated to Git Lint 4.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.1.2 - Brooke Kuhlmann
+
+== 22.0.0 (2022-03-16)
+
+* Fixed Elm Test link - Brooke Kuhlmann
+* Fixed Paletter site link - Brooke Kuhlmann
+* Fixed jless Rust crate link - Brooke Kuhlmann
+* Added Caliber Ruby gem - Brooke Kuhlmann
+* Added Xcode requirement - Brooke Kuhlmann
+* Removed Beaker browser Homebrew cask - Brooke Kuhlmann
+* Removed DeadEnd Ruby gem - Brooke Kuhlmann
+* Removed Elm Analyse - Brooke Kuhlmann
+* Removed Faker Bot Ruby gem - Brooke Kuhlmann
+* Removed Ghostlab application - Brooke Kuhlmann
+* Removed JSON Cocoa JSON Editor App Store application - Brooke Kuhlmann
+* Removed Ranger Homebrew formula - Brooke Kuhlmann
+* Removed Reattach to User Namespace Homebrew formula - Brooke Kuhlmann
+* Removed Rubocop gems - Brooke Kuhlmann
+* Removed Sox Homebrew formula - Brooke Kuhlmann
+* Removed Spotify Homebrew cask - Brooke Kuhlmann
+* Removed Vim Blockle extension - Brooke Kuhlmann
+* Removed Vim text object Ruby block extension - Brooke Kuhlmann
+* Removed Webpack Node package - Brooke Kuhlmann
+
+== 21.1.1 (2022-03-04)
+
+* Fixed Hippocratic License to be 2.1.0 version - Brooke Kuhlmann
+* Added Caliber gem - Brooke Kuhlmann
+* Updated default Rake task to include Git Lint and Rubocop - Brooke Kuhlmann
+* Updated to Dotfiles 46.2.1 - Brooke Kuhlmann
+
+== 21.1.0 (2022-02-20)
+
+* Added Ruby version to Gemfile - Brooke Kuhlmann
+* Added jless Rust crate - Brooke Kuhlmann
+* Updated to Dotfiles 46.2.0 - Brooke Kuhlmann
+* Updated to Git Lint 3.2.0 - Brooke Kuhlmann
+* Updated to Ruby 3.1.1 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 19.1.0 - Brooke Kuhlmann
+* Removed README badges - Brooke Kuhlmann
+
+== 21.0.1 (2022-01-01)
+
+* Updated README policy section links - Brooke Kuhlmann
+* Updated changes as versions documentation - Brooke Kuhlmann
+* Removed code of conduct and contributing files - Brooke Kuhlmann
+
+== 21.0.0 (2021-12-27)
+
+* Fixed Hippocratic license structure - Brooke Kuhlmann
+* Fixed README changes and credits sections - Brooke Kuhlmann
+* Fixed Rubocop Bundler/OrderedGems issue - Brooke Kuhlmann
+* Fixed contributing documentation - Brooke Kuhlmann
+* Added Apple Silicon machine specific documentation - Brooke Kuhlmann
+* Added BundleUp Ruby Gem - Brooke Kuhlmann
+* Added Obsidian Homebrew cask - Brooke Kuhlmann
+* Added Permute App Store application - Brooke Kuhlmann
+* Added ProtonVPN Homebrew cask - Brooke Kuhlmann
+* Added README post-install spotlight keyboard steps - Brooke Kuhlmann
+* Added croc Homebrew Formula - Brooke Kuhlmann
+* Added project citation information - Brooke Kuhlmann
+* Updated GitHub issue template - Brooke Kuhlmann
+* Updated to Dotfiles 46.0.0 - Brooke Kuhlmann
+* Updated to Git Lint 3.0.0 - Brooke Kuhlmann
+* Updated to Hippocratic License 3.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.3 - Brooke Kuhlmann
+* Updated to Ruby 3.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Kit 19.0.0 - Brooke Kuhlmann
+* Removed Git config from BOM - Brooke Kuhlmann
+* Removed Lame Homebrew formula - Brooke Kuhlmann
+* Removed Magic WormHole Homebrew formula - Brooke Kuhlmann
+* Removed README post-install steps for Startup Utility - Brooke Kuhlmann
+* Removed SASSC Homebrew formula - Brooke Kuhlmann
+* Removed YubiKey Manager application - Brooke Kuhlmann
+
+== 20.1.0 (2021-11-20)
+
+* Added README community link - Brooke Kuhlmann
+* Added Ruby DeadEnd gem - Brooke Kuhlmann
+* Added Shapes App Store application - Brooke Kuhlmann
+* Added Solargraph gem - Brooke Kuhlmann
+* Added YubiKey Manager CLI Homebrew formula - Brooke Kuhlmann
+
+== 20.0.0 (2021-10-25)
+
+* Added Ruby Debug gem - Brooke Kuhlmann
+* Updated to Dotfiles 45.0.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 18.2.0 - Brooke Kuhlmann
+* Removed Micro Snitch Homebrew Cask - Brooke Kuhlmann
+* Removed Ruby Pry gems - Brooke Kuhlmann
+* Removed Text Sniper App Store application - Brooke Kuhlmann
+* Removed Zulip Homebrew cask - Brooke Kuhlmann
+* Removed notes from pull request template - Brooke Kuhlmann
+
+== 19.1.0 (2021-10-02)
+
+* Fixed Ruby Faker Bot gem install and documentation - Brooke Kuhlmann
+* Added HTMLQ Homebrew formula - Brooke Kuhlmann
+* Added Libyear Bundler Ruby gem - Brooke Kuhlmann
+* Added Twist Homebrew cask - Brooke Kuhlmann
+* Added YubiKey Manager application - Brooke Kuhlmann
+* Updated to Dotfiles 44.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 18.1.0 - Brooke Kuhlmann
+* Removed TextSniper from README shortcuts - Brooke Kuhlmann
+
+== 19.0.0 (2021-08-01)
+
+* Fixed README software links - Brooke Kuhlmann
+* Added Fast Node Manager Homebrew formula - Brooke Kuhlmann
+* Added Frum Homebrew formula - Brooke Kuhlmann
+* Added IINA Homebrew cask - Brooke Kuhlmann
+* Added Mockuuups Studio Homebrew cask - Brooke Kuhlmann
+* Added Zoxide Homebrew formula - Brooke Kuhlmann
+* Added mitmproxy Homebrew formula - Brooke Kuhlmann
+* Updated node packages script to use NPM - Brooke Kuhlmann
+* Updated to Dotfiles 44.0.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 18.0.0 - Brooke Kuhlmann
+* Removed Bear App Store application - Brooke Kuhlmann
+* Removed Contrast App Store application - Brooke Kuhlmann
+* Removed Gem Man Ruby gem - Brooke Kuhlmann
+* Removed Git Finger Ruby gem - Brooke Kuhlmann
+* Removed IVPN Homebrew cask - Brooke Kuhlmann
+* Removed ImageOptim CLI - Brooke Kuhlmann
+* Removed Nginx Homebrew formula - Brooke Kuhlmann
+* Removed OmniOutliner App Store application - Brooke Kuhlmann
+* Removed PDF Pen Pro App Store application - Brooke Kuhlmann
+* Removed Peco Homebrew formula - Brooke Kuhlmann
+* Removed Pipe Viewer Homebrew formula - Brooke Kuhlmann
+* Removed Pretty Ping Homebrew formula - Brooke Kuhlmann
+* Removed Ruby Install Homebrew formula - Brooke Kuhlmann
+* Removed Ruby ctags gem - Brooke Kuhlmann
+* Removed VLC Homebrew cask - Brooke Kuhlmann
+* Removed Wrk Homebrew formula - Brooke Kuhlmann
+* Removed Yarn Homebrew formula - Brooke Kuhlmann
+* Removed Z Homebrew formula - Brooke Kuhlmann
+* Removed chruby Homebrew formula - Brooke Kuhlmann
+* Removed ngrep Homebrew formula - Brooke Kuhlmann
+
+== 18.3.0 (2021-07-17)
+
+* Fixed README usage pre-install and install steps - Brooke Kuhlmann
+* Added Dive Homebrew formula - Brooke Kuhlmann
+* Added Ghostlab application - Brooke Kuhlmann
+* Added Pastel Homebrew formula - Brooke Kuhlmann
+* Added Pika Homebrew cask - Brooke Kuhlmann
+* Added Tealdeer Homebrew formula - Brooke Kuhlmann
+* Added Websocat Homebrew formula - Brooke Kuhlmann
+* Added YouPlot Ruby gem - Brooke Kuhlmann
+* Added dog Homebrew formula - Brooke Kuhlmann
+* Added duf Homebrew formula - Brooke Kuhlmann
+* Added gping Homebrew formula - Brooke Kuhlmann
+* Updated to Dotfiles 43.2.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.2 - Brooke Kuhlmann
 
 == 18.2.0 (2021-06-01)
 
