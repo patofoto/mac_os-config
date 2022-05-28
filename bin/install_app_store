@@ -62,9 +62,6 @@ mas install 1303222628
 # Pocket
 #mas install 568494494
 
-# WiFi Explorer
-mas install 494803304
-
 # LUTCalc
 mas install 1000409621
 
@@ -75,7 +72,7 @@ mas install 1000409621
 mas install 1020869884
 
 # Permute 3
-mas install 1444998321
+#mas install 1444998321
 
 # Day One
 mas install 1055511498
@@ -93,7 +90,7 @@ mas install 1153435308
 #mas install 409203825
 
 # Shapes
-mas install 930093508
+#mas install 930093508
 
 # Shush
 mas install 496437906
