@@ -1,5 +1,64 @@
 = Versions
 
+== 22.2.0 (2022-05-28)
+
+* Updated to Dotfiles 47.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 19.3.1 - Brooke Kuhlmann
+
+== 22.1.0 (2022-05-07)
+
+* Added Dagger Homebrew formula - Brooke Kuhlmann
+* Updated to Caliber 0.6.0 - Brooke Kuhlmann
+* Updated to Caliber 0.7.0 - Brooke Kuhlmann
+* Updated to Caliber 0.8.0 - Brooke Kuhlmann
+
+== 22.0.1 (2022-04-17)
+
+* Added GitHub sponsorship configuration - Brooke Kuhlmann
+* Updated to Caliber 0.4.0 - Brooke Kuhlmann
+* Updated to Caliber 0.5.0 - Brooke Kuhlmann
+* Updated to Git Lint 4.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.1.2 - Brooke Kuhlmann
+
+== 22.0.0 (2022-03-16)
+
+* Fixed Elm Test link - Brooke Kuhlmann
+* Fixed Paletter site link - Brooke Kuhlmann
+* Fixed jless Rust crate link - Brooke Kuhlmann
+* Added Caliber Ruby gem - Brooke Kuhlmann
+* Added Xcode requirement - Brooke Kuhlmann
+* Removed Beaker browser Homebrew cask - Brooke Kuhlmann
+* Removed DeadEnd Ruby gem - Brooke Kuhlmann
+* Removed Elm Analyse - Brooke Kuhlmann
+* Removed Faker Bot Ruby gem - Brooke Kuhlmann
+* Removed Ghostlab application - Brooke Kuhlmann
+* Removed JSON Cocoa JSON Editor App Store application - Brooke Kuhlmann
+* Removed Ranger Homebrew formula - Brooke Kuhlmann
+* Removed Reattach to User Namespace Homebrew formula - Brooke Kuhlmann
+* Removed Rubocop gems - Brooke Kuhlmann
+* Removed Sox Homebrew formula - Brooke Kuhlmann
+* Removed Spotify Homebrew cask - Brooke Kuhlmann
+* Removed Vim Blockle extension - Brooke Kuhlmann
+* Removed Vim text object Ruby block extension - Brooke Kuhlmann
+* Removed Webpack Node package - Brooke Kuhlmann
+
+== 21.1.1 (2022-03-04)
+
+* Fixed Hippocratic License to be 2.1.0 version - Brooke Kuhlmann
+* Added Caliber gem - Brooke Kuhlmann
+* Updated default Rake task to include Git Lint and Rubocop - Brooke Kuhlmann
+* Updated to Dotfiles 46.2.1 - Brooke Kuhlmann
+
+== 21.1.0 (2022-02-20)
+
+* Added Ruby version to Gemfile - Brooke Kuhlmann
+* Added jless Rust crate - Brooke Kuhlmann
+* Updated to Dotfiles 46.2.0 - Brooke Kuhlmann
+* Updated to Git Lint 3.2.0 - Brooke Kuhlmann
+* Updated to Ruby 3.1.1 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 19.1.0 - Brooke Kuhlmann
+* Removed README badges - Brooke Kuhlmann
+
 == 21.0.1 (2022-01-01)
 
 * Updated README policy section links - Brooke Kuhlmann

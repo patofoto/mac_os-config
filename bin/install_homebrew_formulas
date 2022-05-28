@@ -10,6 +10,7 @@ brew install blueutil
 brew install croc
 brew install crystal
 brew install ctags
+brew install dagger
 brew install direnv
 brew install dive
 brew install dog
@@ -62,15 +63,12 @@ brew install pigz
 brew install pinentry-mac
 brew install postgresql
 brew install procs
-brew install ranger
 brew install readline
-brew install reattach-to-user-namespace
 brew install redis
 brew install ripgrep
 brew install shellcheck
 brew install siege
 brew install sleepwatcher
-brew install sox
 brew install tarsnap
 brew install tealdeer
 brew install terraform
