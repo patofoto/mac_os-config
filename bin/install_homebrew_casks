@@ -15,6 +15,8 @@ brew install --cask autodesk-fusion360
 brew install --cask atom
 brew install --cask balenaetcher
 brew install --cask bartender
+brew install --cask batchmod
+brew install --cask beyond-compare
 brew install --cask blender
 brew install --cask carbon-copy-cloner
 brew install --cask cardhop
@@ -35,18 +37,27 @@ brew install --cask github
 #brew install --cask gitkraken
 brew install --cask google-backup-and-sync
 brew install --cask google-chrome
+brew install --graphicconverter
 #brew install --cask hazel
 brew install --cask iina
 #brew install --cask imageoptim
 brew install --cask istat-menus
 brew install --cask iterm2
+brew install --cask kicad
 # brew install --cask ksdiff
 brew install --cask little-snitch
-# brew install --cask netnewswire
+brew install --cask loopback
+brew install --cask microsoft-office
 # brew install --cask mockuuups-studio
+# brew install --cask netnewswire
+brew install --cask netspot
 # brew install --cask muzzle
 # brew install --cask ngrok
 # brew install --cask numi
+brew install --cask notion
+brew install --cask obs
+brew install --cask onedrive
+brew install --cask onyx
 # brew install --cask obsidian
 # brew install --cask openoffice
 # brew install --cask owasp-zap
@@ -55,14 +66,21 @@ brew install --cask little-snitch
 # brew install --cask pgadmin4
 # brew install --cask pika
 # brew install --cask pixelsnap
+brew install --cask processing
 #brew install --cask protonvpn
+brew install --cask raspberry-pi-imager
 #brew install --cask resolutionator
 #brew install --cask retrobatch
+brew install --cask rightfont
 #brew install --cask signal
+brew install --cask slack
+brew install --cask spotify
 #brew install --cask sublime-text
 brew install --cask transmit
 #brew install --cask twist
+brew install --cask ultimaker-cura
 #brew install --cask viscosity
 brew install --cask vnc-server
 brew install --cask vnc-viewer
 brew install --cask visual-studio-code
+brew install 
