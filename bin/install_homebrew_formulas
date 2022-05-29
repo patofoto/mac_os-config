@@ -63,6 +63,7 @@ brew install node@14
 # brew install pinentry-mac
 # brew install postgresql
 # brew install procs
+brew install python
 # brew install readline
 # brew install redis
 # brew install ripgrep

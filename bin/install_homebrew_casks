@@ -2,6 +2,7 @@
 
 # Installs Homebrew Casks.
 
+brew install --cask 1password
 brew install --cask a-better-finder-rename
 brew install --cask adobe-acrobat-reader
 brew install --cask adobe-creative-cloud
@@ -10,8 +11,11 @@ brew install --cask alfred
 brew install --cask appcleaner
 brew install --cask arduino
 brew install --cask audio-hijack
+brew install --cask autodesk-fusion360
+brew install --cask atom
 brew install --cask balenaetcher
 brew install --cask bartender
+brew install --cask blender
 brew install --cask carbon-copy-cloner
 brew install --cask cardhop
 brew install --cask chronosync
@@ -37,6 +41,7 @@ brew install --cask iina
 brew install --cask istat-menus
 brew install --cask iterm2
 # brew install --cask ksdiff
+brew install --cask little-snitch
 # brew install --cask netnewswire
 # brew install --cask mockuuups-studio
 # brew install --cask muzzle
@@ -54,8 +59,10 @@ brew install --cask iterm2
 #brew install --cask resolutionator
 #brew install --cask retrobatch
 #brew install --cask signal
-brew install --cask sublime-text
+#brew install --cask sublime-text
 brew install --cask transmit
-brew install --cask twist
-brew install --cask viscosity
+#brew install --cask twist
+#brew install --cask viscosity
+brew install --cask vnc-server
+brew install --cask vnc-viewer
 brew install --cask visual-studio-code
