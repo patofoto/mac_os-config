@@ -3,84 +3,105 @@
 # Installs Homebrew Casks.
 
 brew install --cask 1password
+brew install --cask 1password-cli
 brew install --cask a-better-finder-rename
 brew install --cask adobe-acrobat-reader
 brew install --cask adobe-creative-cloud
-#brew install --cask airtable
+brew install --cask affinity-designer
+brew install --cask affinity-photo
+brew install --cask affinity-publisher
+brew install --cask airtable
 brew install --cask alfred
 brew install --cask appcleaner
-brew install --cask arduino
+brew install --cask arduino-ide
+brew install --cask asana
 brew install --cask audio-hijack
+brew install --cask autodesk-fusion
 brew install --cask autodesk-fusion360
 brew install --cask atom
 brew install --cask balenaetcher
 brew install --cask bartender
 brew install --cask batchmod
+brew install --cask betterdisplay
 brew install --cask beyond-compare
+brew install --cask big-mean-folder-machine
 brew install --cask blender
 brew install --cask carbon-copy-cloner
 brew install --cask cardhop
+brew install --cask chatgpt
 brew install --cask chronosync
-#brew install --cask cncjs
-#brew install --cask coderunner
-#brew install --cask cyberduck
-brew install --cask dash
+brew install --cask claude
+brew install --cask container
+brew install --cask cursor
+brew install --cask cursor-cli
+# brew install --cask cyberduck
 brew install --cask daisydisk
+brew install --cask dash
+brew install --cask discord
 brew install --cask diskcatalogmaker
 brew install --cask displaycal
+brew install --cask docker-desktop
+brew install --cask drivedx
 brew install --cask dropbox
+brew install --cask dropzone
+brew install --cask epic-games
 brew install --cask ff-works
+brew install --cask figma
 brew install --cask firefox
-#brew install --cask fontexplorer-x-pro
+brew install --cask fission
+brew install --cask font-symbols-only-nerd-font
 brew install --cask garagesale
 brew install --cask github
-#brew install --cask gitkraken
-brew install --cask google-backup-and-sync
 brew install --cask google-chrome
-brew install --graphicconverter
-#brew install --cask hazel
+brew install --cask google-drive
+brew install --cask graphicconverter
 brew install --cask iina
-#brew install --cask imageoptim
+brew install --cask inkscape
 brew install --cask istat-menus
 brew install --cask iterm2
+brew install --cask keyboard-maestro
 brew install --cask kicad
-# brew install --cask ksdiff
+brew install --cask latest
 brew install --cask little-snitch
+brew install --cask lm-studio
 brew install --cask loopback
+brew install --cask maccy
+brew install --cask magicavoxel
+brew install --cask mailsteward
+brew install --cask micro-snitch
+brew install --cask microsoft-auto-update
 brew install --cask microsoft-office
-# brew install --cask mockuuups-studio
-# brew install --cask netnewswire
+brew install --cask mqtt-explorer
 brew install --cask netspot
-# brew install --cask muzzle
-# brew install --cask ngrok
-# brew install --cask numi
 brew install --cask notion
+brew install --cask numi
 brew install --cask obs
 brew install --cask onedrive
 brew install --cask onyx
-# brew install --cask obsidian
-# brew install --cask openoffice
-# brew install --cask owasp-zap
-# brew install --cask path-finder
-# brew install --cask paw
-# brew install --cask pgadmin4
-# brew install --cask pika
-# brew install --cask pixelsnap
+brew install --cask orcaslicer
+brew install --cask parsec
 brew install --cask processing
-#brew install --cask protonvpn
 brew install --cask raspberry-pi-imager
-#brew install --cask resolutionator
-#brew install --cask retrobatch
+brew install --cask readdle-spark
+brew install --cask resilio-sync
 brew install --cask rightfont
-#brew install --cask signal
 brew install --cask slack
 brew install --cask spotify
-#brew install --cask sublime-text
+brew install --cask storyboarder
+brew install --cask sublime-text
+brew install --cask telegram-desktop
+brew install --cask the-unarchiver
+brew install --cask tor-browser
+brew install --cask touchdesigner
 brew install --cask transmit
-#brew install --cask twist
 brew install --cask ultimaker-cura
-#brew install --cask viscosity
+brew install --cask utm
+brew install --cask visual-studio-code
+brew install --cask vlc
 brew install --cask vnc-server
 brew install --cask vnc-viewer
-brew install --cask visual-studio-code
-brew install 
+brew install --cask warp
+brew install --cask whatsapp
+brew install --cask windsurf
+brew install --cask zed
+brew install --cask zoom

@@ -2,101 +2,56 @@
 
 # Installs App Store software.
 
-# 1Password
-#mas install 443987910
+# 1Password for Safari
+mas install 1569813296
 
-# Numbers
-#mas install 409203825
+# AmorphousDiskMark
+mas install 1168254295
 
-# DaisyDisk
-#mas install 411643860
+# Apple Configurator
+mas install 1037126344
 
-# Speedtest
-mas install 1153157709
-
-# Playgrounds
-mas install 1496833156
-
-# Xcode
-mas install 497799835
-
-# LanScan
-mas install 472226235
-
-# WSwitch
-mas install 1004094307
-
-# AirBeam Pro
-mas install 515650180
-
-# Final Cut Pro
-#mas install 424389933
-
-# Tap Forms 5
-#mas install 1081981112
-
-# Swatch Book Editor
-mas install 1458643649
-
-# Sun Seeker Pro
-mas install 1233920976
-
-# WiFi Signal
-mas install 525912054
-
-# Magnet
-mas install 441258766
-
-# Spark
-mas install 1176895641
-
-# Exif Editor
-mas install 477514607
-
-# Motion
-#mas install 434290957
-
-# Paprika Recipe Manager 3
-mas install 1303222628
-
-# Pocket
-#mas install 568494494
-
-# LUTCalc
-mas install 1000409621
-
-# Pages
-#mas install 409201541
-
-# Shot Lister
-mas install 1020869884
-
-# Permute 3
-#mas install 1444998321
+# ColorSlurp
+mas install 1287239339
 
 # Day One
 mas install 1055511498
 
-# MindNode
-#mas install 1289197285
-
-# Divvy
-mas install 413857545
-
-# inddPreview
-mas install 1153435308
-
-# Numbers
-#mas install 409203825
-
-# Shapes
-#mas install 930093508
-
-# Shush
-mas install 496437906
-
 # Keynote
-#mas install 409183694
+mas install 409183694
 
-# WiFi Explorer
-mas install 494803304
+# LanScan
+mas install 472226235
+
+# LUTCalc
+mas install 1000409621
+
+# Magnet
+mas install 441258766
+
+# MiddleControl
+mas install 1575141958
+
+# Paprika Recipe Manager 3
+mas install 1303222628
+
+# Shot Lister
+mas install 529436218
+
+# Speedtest
+mas install 1153157709
+
+# System Designer
+mas install 1102494854
+
+# Teleprompter
+mas install 1533078079
+
+# TestFlight
+mas install 899247664
+
+# WireGuard
+mas install 1451685025
+
+# Xcode
+mas install 497799835

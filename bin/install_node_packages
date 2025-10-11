@@ -2,6 +2,6 @@
 
 # Installs Node packages.
 
-#npm install --global elm-live
-#npm install --global elm-test
-sudo npm install -g --unsafe-perm node-red
+npm install --global node-red
+npm install --global typescript
+npm install --global typescript-language-server
